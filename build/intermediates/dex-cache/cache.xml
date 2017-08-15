@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\aajar\MagicIndicator-master\app\build\intermediates\exploded-aar\MagicIndicator-master\magicindicator\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6c36a599a95a096ecfa4ebf91c94c1eba0b9ffe9">
+        <dex dex="E:\aajar\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\MagicIndicator-master-magicindicator-unspecified_8fa899b797773ad1fb96663a3f44574008d70d9e.jar" />
+    </item>
+    <item
+        jar="E:\aajar\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\aajar\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_c6141736940ea423dc2bb43aab3b106d2d09c94a.jar" />
+    </item>
+    <item
+        jar="E:\aajar\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\aajar\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_e4617c7a6735fa28fad0f8f37c8214a9df99a85e.jar" />
+    </item>
+    <item
+        jar="E:\aajar\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\aajar\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_338f2bbdbbe56a7eb6229fc1da8397601723e65d.jar" />
+    </item>
+    <item
+        jar="E:\aajar\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\aajar\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_c95601ce0af617594a447f9c8fd9026bb9f0448d.jar" />
+    </item>
+    <item
+        jar="E:\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\aajar\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_8032a8567d40425aeaac813d71b69aa9491fa645.jar" />
+    </item>
+    <item
+        jar="E:\aajar\MagicIndicator-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\aajar\MagicIndicator-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_618c6d0d746c960f156a931cc13544cbe2fca34a.jar" />
+    </item>
+
+</items>
